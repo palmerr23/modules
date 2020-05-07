@@ -1,7 +1,7 @@
 # modules
 Eagle libraries for various eBay modules
 
-TS472 - microphone preamplifier
+TS472 - microphone preamplifier x 2 ("Simple" version  omits pads on underside)
 
 XL6009 Boost converter (HV)
 
